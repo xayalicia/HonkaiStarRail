@@ -1,1 +1,1 @@
-# HonkaiStarRail
+# HSR
